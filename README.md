@@ -25,6 +25,7 @@ There are some potential disparities that will need to be taken into account whe
 * In rural cities, there is probably a lesser demand for ride-sharing services than in urban cities where not owning a car is more common.
 
 More research will need to be done in order to make better decisions.
+
 Possible impovements:
 * population of cities
 * travel distance
