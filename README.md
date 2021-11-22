@@ -18,6 +18,8 @@ The line graph provides a more detailed look with the metrics of total fare in a
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
+![image](https://user-images.githubusercontent.com/85656361/142909617-2cfd4836-c4e0-4dd5-a1ee-688014d99c6c.png)
+
 ## Summary:
 There are some potential disparities that will need to be taken into account when using this data to make business decisions.
 * Though there is a correlation between number of drivers and revenue, it should not be assumed that simply encouraging more drivers in rural areas will increase profits.
