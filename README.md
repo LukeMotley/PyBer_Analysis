@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of the analysis:
-In this analysis, a summary and multiple-line graph are created to display ride-sharing data by city type. Cities were placed into one of three categories: "Urban", "Suburban", and "Rural". This analysis was created to make financial data-drive-decisions at PyBer.
+In this analysis, a summary and multiple-line graph are created to display ride-sharing data by city type. Cities were placed into one of three categories: "Urban", "Suburban", and "Rural". This analysis was created to make financial data-driven-decisions at PyBer.
 
 ## Results:
 The dataFrame provides a broad, generalized, representation of the data. From the table below, it is shown that there is a large volume increase the closer to cities. There are also many more drivers within urban settings. The further from cities, the fewer rides, drivers, and total fares, and an increase in Averages of fare per ride and dare per driver. Urban cities also generate much more revenue while the least for average fare per driver.
